@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "alpha-dir": "bin.ts"
+    "alpha-dir": "./bin.ts"
   },
   "author": "",
   "license": "ISC"
